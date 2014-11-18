@@ -1,0 +1,15 @@
+{
+    "updateInfo":{
+        "appName": "PVO",
+        "appDescription": "PVO by lttai",
+        "packageName": "com.lttai.testandroidupdater",
+        "versionCode": "2",
+        "versionName": "2.0",
+        "forceUpdate": false,
+        "autoUpdate": true,
+        "apkUrl": "https://raw.githubusercontent.com/astropop/updater/master/apk/TestAndroidUpdaterv2.1.apk",
+        "updateTips": {
+            "defaultTip": "PVO by lttai"
+        }
+    }
+}
